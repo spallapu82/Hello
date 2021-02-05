@@ -1,15 +1,3 @@
 Hello Sreenivas, THis is frist test file you have created.
 
-I like things
-Cooking
-Playing
-
-Cooking TYpe
-Lemon
-Chicken
-Masala Rice
-
-
-Hobbies
-Playing cricket
-driving
+THis my thrid merge
